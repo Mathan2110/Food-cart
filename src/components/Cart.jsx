@@ -8,9 +8,7 @@ const Cart = ({ cart, setCart }) => {
     <div className="cart-container">
       <h2 className="Cart-head">Cart</h2>
         {cart.length?(cart.map((data, index) => (
-          <>
-          <Cartproduct cart={cart} setCart={setCart} data={data} key={index} settotal={setTotal} total={total} />
-        </>
+          <Cartproduct cart={cart} setCart={setCart} data={data} key={data.id} settotal={setTotal} total={total} />
         ))
       ):
       <>

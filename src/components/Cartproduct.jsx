@@ -57,11 +57,11 @@ const Cartproduct = ({cart,setCart,data,index,total,settotal}) => {
 
             <div className="quantity-buttons">
               <div className="minusImage" onClick={minus}>
-                <img src="../minus-solid.svg" alt="" />
+                <img src="./minus-solid.svg" alt="" />
               </div>
               <h2 className="quantity">{quantity}</h2>
               <div className="plusImage" onClick={plus}>
-                <img src="../plus-solid.svg" alt="" />
+                <img src="./plus-solid.svg" alt="" />
               </div>
             </div>
 

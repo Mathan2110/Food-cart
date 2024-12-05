@@ -2,126 +2,153 @@
     {
         "Name":"Aam pana",
         "img":"./aam pana.webp",
-        "Rs":"100"
+        "Rs":"100",
+        "id":"1"
     },
     {
         "Name":"Barfi",
         "img":"./barfi.webp",
-        "Rs":"50"
+        "Rs":"50",
+        "id":"2"
     },
     {
         "Name":"Biriyani",
         "img":"./biriyani.webp",
-        "Rs":"350"
+        "Rs":"350",
+        "id":"3"
     },
     {
         "Name":"Butter chicken",
         "img":"./butter chicken.webp",
-        "Rs":"200"
+        "Rs":"200",
+        "id":"4"
     },
     {
         "Name":"Chana masala",
         "img":"./chana masala.webp",
-        "Rs":"150"
+        "Rs":"150",
+        "id":"5"
     },
     {
         "Name":"Chapati",
         "img":"./chapati.jpg",
-        "Rs":"80"
+        "Rs":"80",
+        "id":"6"
     },
     {
         "Name":"Chicken 65",
         "img":"./chicken 65.webp",
-        "Rs":"170"
+        "Rs":"170",
+        "id":"7"
     },
     {
         "Name":"Gulab jamun",
         "img":"./gulab jamun.webp",
-        "Rs":"60"
+        "Rs":"60",
+        "id":"8"
     },
     {
         "Name":"Idly",
         "img":"./idly.webp",
-        "Rs":"40"
+        "Rs":"40",
+        "id":"9"
     },
     {
         "Name":"Kaalan",
         "img":"./kaalan.jpg",
-        "Rs":"100"
+        "Rs":"100",
+        "id":"10"
     },
     {
         "Name":"Kachori",
         "img":"./kachori.webp",
-        "Rs":"140"
+        "Rs":"140",
+        "id":"11"
     },
     {
         "Name":"Kathi rolls",
         "img":"./kathi rolls.webp",
-        "Rs":"120"
+        "Rs":"120",
+        "id":"12"
     },
     {
         "Name":"Kulfi",
         "img":"./kulfi.webp",
-        "Rs":"90"
+        "Rs":"90",
+        "id":"13"
+
     },
     {
         "Name":"Lassi",
         "img":"./lassi.webp",
-        "Rs":"60"
+        "Rs":"60",
+        "id":"14"
     },
     {
         "Name":"Malai kofta",
         "img":"./malai kofta.webp",
-        "Rs":"80"
+        "Rs":"80",
+        "id":"15"
     },
     {
         "Name":"Masala chai",
         "img":"./masala chai.webp",
-        "Rs":"30"
+        "Rs":"30",
+        "id":"16"
+
     },
     {
         "Name":"Matar Kulcha",
         "img":"./matar kulcha.webp",
-        "Rs":"130"
+        "Rs":"130",
+        "id":"17"
     },
     {
         "Name":"Naan",
         "img":"./naan.webp",
-        "Rs":"110"
+        "Rs":"110",
+        "id":"18"
     },
     {
         "Name":"Pakora",
         "img":"./pakora.webp",
-        "Rs":"70"
+        "Rs":"70",
+        "id":"19"
     },
     {
         "Name":"Pani puri",
         "img":"./pani puri.webp",
-        "Rs":"50"
+        "Rs":"50",
+        "id":"20"
     },
     {
         "Name":"Paratha",
         "img":"./paratha.webp",
-        "Rs":"80"
+        "Rs":"80",
+        "id":"21"
     },
     {
         "Name":"Rogen josh",
         "img":"./rogen josh.webp",
-        "Rs":"70"
+        "Rs":"70",
+        "id":"22"
     },
     {
         "Name":"Saag",
         "img":"./saag.webp",
-        "Rs":"65"
+        "Rs":"65",
+        "id":"23"
     },
     {
         "Name":"Samosa",
         "img":"./samosa.webp",
-        "Rs":"90"
+        "Rs":"90",
+        "id":"24"
     },
     {
         "Name":"Sambar satham",
         "img":"./sambar satham.jpg",
-        "Rs":"170"
+        "Rs":"170",
+        "id":"25"
     }
 ]

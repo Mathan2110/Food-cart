@@ -9,7 +9,7 @@ const Home = ({cart,setCart}) => {
       <h1 className='menu'>Menu</h1>
       <div className="food-container">
         {datas.map((data,index)=>(
-          <Product  data={data} key={index} cart={cart} setCart={setCart} />
+          <Product  data={data} key={data.id} cart={cart} setCart={setCart} />
         ))}
       </div>
     </div>
