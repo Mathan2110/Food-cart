@@ -1,0 +1,127 @@
+[
+    {
+        "Name":"Aam pana",
+        "img":"./aam pana.webp",
+        "Rs":"100"
+    },
+    {
+        "Name":"Barfi",
+        "img":"./barfi.webp",
+        "Rs":"50"
+    },
+    {
+        "Name":"Biriyani",
+        "img":"./biriyani.webp",
+        "Rs":"350"
+    },
+    {
+        "Name":"Butter chicken",
+        "img":"./butter chicken.webp",
+        "Rs":"200"
+    },
+    {
+        "Name":"Chana masala",
+        "img":"./chana masala.webp",
+        "Rs":"150"
+    },
+    {
+        "Name":"Chapati",
+        "img":"./chapati.jpg",
+        "Rs":"80"
+    },
+    {
+        "Name":"Chicken 65",
+        "img":"./chicken 65.webp",
+        "Rs":"170"
+    },
+    {
+        "Name":"Gulab jamun",
+        "img":"./gulab jamun.webp",
+        "Rs":"60"
+    },
+    {
+        "Name":"Idly",
+        "img":"./idly.webp",
+        "Rs":"40"
+    },
+    {
+        "Name":"Kaalan",
+        "img":"./kaalan.jpg",
+        "Rs":"100"
+    },
+    {
+        "Name":"Kachori",
+        "img":"./kachori.webp",
+        "Rs":"140"
+    },
+    {
+        "Name":"Kathi rolls",
+        "img":"./kathi rolls.webp",
+        "Rs":"120"
+    },
+    {
+        "Name":"Kulfi",
+        "img":"./kulfi.webp",
+        "Rs":"90"
+    },
+    {
+        "Name":"Lassi",
+        "img":"./lassi.webp",
+        "Rs":"60"
+    },
+    {
+        "Name":"Malai kofta",
+        "img":"./malai kofta.webp",
+        "Rs":"80"
+    },
+    {
+        "Name":"Masala chai",
+        "img":"./masala chai.webp",
+        "Rs":"30"
+    },
+    {
+        "Name":"Matar Kulcha",
+        "img":"./matar kulcha.webp",
+        "Rs":"130"
+    },
+    {
+        "Name":"Naan",
+        "img":"./naan.webp",
+        "Rs":"110"
+    },
+    {
+        "Name":"Pakora",
+        "img":"./pakora.webp",
+        "Rs":"70"
+    },
+    {
+        "Name":"Pani puri",
+        "img":"./pani puri.webp",
+        "Rs":"50"
+    },
+    {
+        "Name":"Paratha",
+        "img":"./paratha.webp",
+        "Rs":"80"
+    },
+    {
+        "Name":"Rogen josh",
+        "img":"./rogen josh.webp",
+        "Rs":"70"
+    },
+    {
+        "Name":"Saag",
+        "img":"./saag.webp",
+        "Rs":"65"
+    },
+    {
+        "Name":"Samosa",
+        "img":"./samosa.webp",
+        "Rs":"90"
+    },
+    {
+        "Name":"Sambar satham",
+        "img":"./sambar satham.jpg",
+        "Rs":"170"
+    }
+]
