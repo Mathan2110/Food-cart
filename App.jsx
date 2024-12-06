@@ -9,11 +9,11 @@ const App = () => {
   const [cart,setCart]=useState([])
   return (
     <>
-      <BrowserRouter basename='/Food-crew/'>
+      <BrowserRouter basename='/Food-cart/'>
       <Header />
       <Routes>
         <Route path="/" element={<Home cart={cart} setCart={setCart} />} />
-        <Route basename='/Food-crew/' path="/Cart" element={<Cart cart={cart} setCart={setCart} />} />
+        <Route basename='/Food-cart/' path="/Cart" element={<Cart cart={cart} setCart={setCart} />} />
       </Routes>
       </BrowserRouter>
     </>
